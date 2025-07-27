@@ -1,5 +1,4 @@
-#Genetic Algorithm
-Genetic Algorithm for Smart Grid Energy Optimization
+#Genetic Algorithm for Smart Grid Energy Optimization
 This project implements a Genetic Algorithm (GA) to solve a constrained optimization problem focused on smart grid energy distribution. It demonstrates how heuristic optimization techniques can minimize costs, reduce losses, and fulfill energy demand effectively in a real-world scenario.
 
 Overview
